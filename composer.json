@@ -1,0 +1,12 @@
+{
+    "require": {
+        "johngrogg/ics-parser": "^3",
+        "nesbot/carbon": "^2",
+        "symfony/translation": "^6"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": false
+        }
+    }
+}
